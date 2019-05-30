@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cook Room</string>
+    <string name="intro_message">
+        <![CDATA[
+        This panel should be animated upon upwards slide, to turn off the camera and fill the screen with recent/trending dishes/posts
+        ]]>
+    </string>
+</resources>
